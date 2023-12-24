@@ -1,3 +1,4 @@
+apt update -y
 Step 1) - Install Nodejs
 
 Let's download nodejs from Nodesource. NodeSource is a company which provides enterprise-grade Node support and maintains a repository containing the latest versions of Node.js.
